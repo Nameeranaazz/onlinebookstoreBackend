@@ -56,10 +56,10 @@ public class Book {
     }
 
     public String getCategory() {
-        return category; // Getter for category
+        return category;
     }
 
     public void setCategory(String category) {
-        this.category = category; // Setter for category
+        this.category = category;
     }
 }
